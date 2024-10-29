@@ -3,3 +3,5 @@ pandas
 numpy
 matplotlib
 jupyter
+spacy==3.4.0
+seaborn
